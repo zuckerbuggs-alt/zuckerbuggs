@@ -1,9 +1,1 @@
 streamlit
-PILLOW
-numpy
-cv2
-torch
-tempfile
-os
-pydeck
-pandas
