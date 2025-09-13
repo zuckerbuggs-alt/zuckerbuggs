@@ -3,3 +3,4 @@ panda
 pillow
 numpy
 opencv-python
+torch
