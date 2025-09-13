@@ -1,5 +1,5 @@
 streamlit
-PIL
+PILLOW
 numpy
 cv2
 torch
